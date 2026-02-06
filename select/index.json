@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ふられ気分でRock'n' Roll",
+  "base_artist": "TOM☆CAT",
+  "createdAt": "2026-02-06T19:35:29.456549Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ふられ気分でRock'n' Roll",
+      "artist": "TOM★CAT",
+      "has_synced": true,
+      "path": "select/01_ふられ気分でRock'n'_Roll_TOM★CAT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ふられ気分でROCK'N ROLL",
+      "artist": "トム・キャット",
+      "has_synced": true,
+      "path": "select/02_ふられ気分でROCK'N_ROLL_トム・キャット.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ふられ気分でRock'n' Roll",
+      "artist": "TOM☆CAT",
+      "has_synced": false,
+      "path": "select/03_ふられ気分でRock'n'_Roll_TOM☆CAT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ふられ気分でRock'n' Roll",
+      "artist": "TOM★CAT",
+      "has_synced": true,
+      "path": "select/04_ふられ気分でRock'n'_Roll_TOM★CAT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふられ気分でRock'n' Roll",
+      "artist": "TOM★CAT",
+      "has_synced": false,
+      "path": "select/pl_01_ふられ気分でRock'n'_Roll_TOM★CAT.txt"
+    }
+  ]
+}
